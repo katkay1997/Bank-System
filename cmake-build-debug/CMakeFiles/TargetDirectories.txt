@@ -1,0 +1,3 @@
+/Users/kateramckay/Bank-System/cmake-build-debug/CMakeFiles/Bank_System.dir
+/Users/kateramckay/Bank-System/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kateramckay/Bank-System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
